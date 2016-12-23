@@ -4,7 +4,6 @@ body {
 
 .nav-justified {
     font-size: 15px;
-    padding: 10px 10px 10px 10px;
 }
 
 .text-muted {
@@ -28,4 +27,5 @@ h4 {
 
 footer {
     margin-top: 60px;
+    font-size: 15px;
 }
