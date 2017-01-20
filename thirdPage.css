@@ -1,10 +1,5 @@
-body{
-    background-color: white;
-    padding:0px 40px 0px 40px;
-}
-.navbar{
-    margin-bottom:-20px;
-}
+
+
 #home-section{
     background-image: url("http://eskipaper.com/images/snow-mountain-8.jpg");
     color:white;
@@ -15,12 +10,21 @@ body{
     width: 150px;
     height:auto;
 }
+li:hover { background-color:#96C44F; 
+}
+
+/* klase za margine i padding:*/
+.navbar{
+    margin-bottom:-20px;
+}
+.margin-left-500px{
+    margin-left:500px;
+}
+.margin-left-150px{
+    margin-left:150px;
+}
 .margin-bottom-50px{
     margin-bottom:50px;
-}
-.text-about{
-    color:#96C44F;
-
 }
 .meet-the-team-margin{
     margin-top:30px;
@@ -29,6 +33,28 @@ body{
 .well{
     margin-bottom:-20px;
     }
+.btn-padding{
+    padding-right:10px;
+}
+.btn-padding-new{
+    padding-right:20px;
+}
+.margin-top{
+    margin-top:50px;
+}
+.contact-padding{
+    padding-bottom: -10px;
+}
+form{
+    padding-top:25px;
+}
+.padding-left{
+    padding-left: 33px;
+}
+/*kraj klasa za margine i padding*/
+.text-about{
+    color:#96C44F;
+}
 .img-size{
     width:100%;
     height:50%;
@@ -37,14 +63,7 @@ body{
 #pricing-section{
     background-image: url("http://media.gettyimages.com/videos/businessman-steps-into-a-spotlight-in-a-dark-room-video-id570505749?s=640x640");
     color:white;
-    padding: 30px;
-}
-.btn-padding{
-    padding-right:10px;
-}
-.btn-padding-new{
-    padding-right:20px;
-    
+    padding: 30px;  
 }
 .label-text{
     opacity: 0.01;
@@ -64,25 +83,20 @@ body{
     width:150px;
     height:auto;
 }
-.margin-top{
-    margin-top:50px;
-}
+
 
 #contact-section{
     background-image: url("http://www.wall321.com/thumbnails/detail/20130414/wood%20textures%201600x900%20wallpaper_www.wall321.com_45.jpg");
     color: white;
 }
-.contact-padding{
-    padding-bottom: -10px;
-}
+
 .contact-green-button-one{
     color: limegreen;
     margin-top:30px;
     margin-bottom: 50px;
 }
 .contact-green-button{
-    color: limegreen;
-    
+    color: limegreen;    
     padding-top:10px;
     padding-right:10px;
 }
@@ -93,15 +107,25 @@ body{
 .text-size-contact{
     font-size: 80%;
     }
-form{
-    padding-top:25px;
-}
-span{
+
+.span-border{
     border-bottom: 1px solid black;
 }
-.padding-left{
-    padding-left: 33px;
+.progress-bar {  
+  height: 50%;
+  font-size: 10px;
+  line-height: 10px; 
 }
-
-
-
+.progress-bar-success{    
+    background-color: #5cb85c;
+}
+.text-success{
+        color:#5cb85c;
+}
+.navbar-default{
+    background-color: rgb(255, 255,250);
+}
+.pull-right{
+    margin-right: 15px;
+}
+ 
