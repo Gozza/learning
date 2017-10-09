@@ -1,0 +1,141 @@
+
+.margin-top-30px{
+    margin-top: 30px;}   
+.navbar-box{
+    padding-top: 20px;
+    background-color:white;
+    border-bottom-color: white;
+}
+.navbar-box .image-responsive{
+    margin-top: -20px;
+}
+.home-link{
+    color:#6DD0E5 !important;
+}
+
+.carousel-caption {
+    position: absolute;
+    z-index: 1;
+    display:table;
+    width:100%;
+    height:100%;
+    
+}
+.carousel-caption .blue-text-color{
+    color:#6DD0E5
+}
+.carousel-caption .gray-text-color{
+    color:gray;
+}
+.carousel-caption .btn{
+    color:#6DD0E5;
+    border: 1px solid rgba(109, 208, 229, 0.5);
+}
+
+.absolute-div {
+    position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+}
+
+.carousel-caption h3 {
+    display:table-cell;
+    vertical-align: middle;
+    text-align:center;
+}
+
+.item {
+    position:relative;
+}
+.white-background{
+    background-color: white;
+}
+.gray-background{
+    background-color: #eff0eb;
+}
+.box-two h1{
+    color:#6DD0E5;
+}
+.box-two{
+    text-align: center;
+    margin-top: 30px;
+}
+.box-three{
+    text-align: left;
+    margin-top: 30px;    
+    padding-bottom: 50px;
+}
+.box-three h4 {
+    margin-top: 40px;
+}
+.box-four{
+    background-color: white;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box-four h5{
+    color:#6DD0E5;
+    margin-top: 30px;
+}
+.box-five{
+    background-color: white;
+}
+.box-five div{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box-five h5{
+    color:#6DD0E5; 
+}
+.box-five h4{
+    color:#6DD0E5; 
+}
+.padding-10px{
+    padding-right:20px;
+    padding-left: 20px;
+}
+.box-six h6{
+    color:#6DD0E5;
+}
+.dot {
+    cursor:pointer;
+    height: 13px;
+    width: 13px;
+    margin: 10px 3px 30px 0;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  .box-seven{
+      padding-top:40px;
+      padding-bottom: 30px;
+  }
+  .box-seven h4{
+      color:#6DD0E5;
+  }
+  .box-seven a:hover{
+      color: #6DD0E5
+  }
+  .box-seven h3{
+      color: rgba(0, 0, 0, 0.50);
+      }
+  .color-blue{
+      color:#6DD0E5;
+  }
+  .fa-twitter{
+    margin-left: 20px;
+  }
+  .margin-30px{
+      margin: 60px 0 30px 0;
+  }
+  .body-opacity{
+      color:rgb(0,0, 0, 0,7);
+  }
+
