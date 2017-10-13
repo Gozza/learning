@@ -1,11 +1,15 @@
 
 .margin-top-30px{
     margin-top: 30px;}   
-.navbar-box{
+.navbar-default{
     padding-top: 20px;
     background-color:white;
     border-bottom-color: white;
 }
+.dentist-img{
+    margin-bottom:50px!important;
+}
+
 .navbar-box .image-responsive{
     margin-top: -20px;
 }
@@ -14,10 +18,10 @@
 }
 
 .carousel-caption {
-    position: absolute;
+    position:absolute;
     z-index: 1;
     display:table;
-    width:100%;
+    width:90%;
     height:100%;
     
 }
@@ -35,16 +39,21 @@
 .absolute-div {
     position: absolute;
       top: 0;
-      left: 0;
+      left: 00px;
       right: 0;
       bottom: 0;
 }
+.carousel-text-margin-top{
+    margin-top: 150px;
+}
 
-.carousel-caption h3 {
+.carousel-caption h3+p+button{
     display:table-cell;
     vertical-align: middle;
     text-align:center;
+    
 }
+.carusel-caption-margins
 
 .item {
     position:relative;
@@ -55,49 +64,50 @@
 .gray-background{
     background-color: #eff0eb;
 }
-.box-two h1{
+.box-package h1{
     color:#6DD0E5;
 }
-.box-two{
+.box-package{
     text-align: center;
     margin-top: 30px;
 }
-.box-three{
+.box-about{
     text-align: left;
     margin-top: 30px;    
     padding-bottom: 50px;
 }
-.box-three h4 {
+.box-about h4 {
     margin-top: 40px;
 }
-.box-four{
+.box-sevices{
     background-color: white;
     text-align: left;
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.box-four h5{
+.box-services h5{
     color:#6DD0E5;
     margin-top: 30px;
 }
-.box-five{
+.box-ovaj-onaj{
     background-color: white;
+    padding:10px;
 }
-.box-five div{
+.box-ovaj-onaj div{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-.box-five h5{
+.box-ovaj-onaj h5{
     color:#6DD0E5; 
 }
-.box-five h4{
+.box-ovaj-onaj h4{
     color:#6DD0E5; 
 }
 .padding-10px{
     padding-right:20px;
     padding-left: 20px;
 }
-.box-six h6{
+.box-testimonials h6{
     color:#6DD0E5;
 }
 .dot {
@@ -113,17 +123,17 @@
   .active, .dot:hover {
     background-color: #717171;
   }
-  .box-seven{
+  .box-footer{
       padding-top:40px;
       padding-bottom: 30px;
   }
-  .box-seven h4{
+  .box-footer h4{
       color:#6DD0E5;
   }
-  .box-seven a:hover{
+  .box-footer a:hover{
       color: #6DD0E5
   }
-  .box-seven h3{
+  .box-footer h3{
       color: rgba(0, 0, 0, 0.50);
       }
   .color-blue{
